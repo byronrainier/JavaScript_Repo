@@ -38,5 +38,6 @@ console.log(b);
 console.log(c);
 console.log(d);
 // Digamos que solo queremos tomar elementos especificos del array
-const [e, j] = restaurant.starterMenu[];
+const [e, j] = restaurant.starterMenu;
 console.log(e);
+console.log(j);
